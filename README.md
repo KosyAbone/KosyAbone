@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kossy
-- 👀 I’m interested in a full-stack Software Dev Internship
+- 👀 I’m interested in a full-stack Software Dev Role
 - 📫 How to reach me: abonekosiso@gmail.com
 <!---
 KosyAbone/KosyAbone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
