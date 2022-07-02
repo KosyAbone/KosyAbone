@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kossy
-- 👀 I’m interested in a full-stack Software Dev Role
+- 👀 I'm open to FullStack Developer role
 - I love contributing to open source projects
 - 📫 How to reach me: abonekosiso@gmail.com
 <!---
